@@ -38,7 +38,7 @@
 
 1. 
 ```
-apt install postgresql
+    1  apt install postgresql
     2  apt update
     3  apt install postgresql
     4  wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian11_all.deb
@@ -51,9 +51,9 @@ apt install postgresql
    11  zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
    12  find /-name zabbix_server.conf
    13  nano /etc/zabbix/zabbix_server.conf
-   15  systemctl restart zabbix-server apache2
-   16  systemctl enable zabbix-server apache2
-   17  systemctl status zabbix_server.service
+   14  systemctl restart zabbix-server apache2
+   15  systemctl enable zabbix-server apache2
+   16  systemctl status zabbix_server.service
 ```
 
 ![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
