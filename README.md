@@ -58,7 +58,7 @@
 
 ![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
 
-![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin1.PNG)
+![Название скриншота 2](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin1.PNG)
 ---
 
 ### Задание 2
@@ -94,9 +94,9 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.agent.PNG)
-![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.log.PNG)
-![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Monitoring.PNG)
+![Название скриншота 3](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.agent.PNG)
+![Название скриншота 4](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.log.PNG)
+![Название скриншота 5](https://github.com/cat2611/zabbix-hw/blob/main/img/Monitoring.PNG)
 
 
 ---
