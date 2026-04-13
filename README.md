@@ -94,9 +94,9 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
-![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
-![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
+![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.agent.PNG)
+![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/zabbix.log.PNG)
+![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Monitoring.PNG)
 
 
 ---
