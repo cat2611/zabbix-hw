@@ -77,15 +77,16 @@
 Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 Приложите в файл README.md текст использованных команд в GitHub.`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
 
 ```
-Поле для вставки кода...
+Поле для вставки кода
+1. sudo su
+2. wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_6.0+ubuntu22.04_all.deb
+3. dpkg -i zabbix-release_latest_6.0+ubuntu22.04_all.deb
+4. apt update
+5. apt install zabbix-agent
+6. nano /etc/zabbix/zabbix_agentd.conf - поправила настройку сервера
+7. systemctl restart zabbix-agent
 ....
 ....
 ....
@@ -93,7 +94,9 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
+![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
+![Название скриншота 1](https://github.com/cat2611/zabbix-hw/blob/main/img/Zabbix.admin.PNG)
 
 
 ---
